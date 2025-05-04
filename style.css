@@ -1,0 +1,41 @@
+
+header {
+    text-align:center;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgb(0, 248, 0);
+}
+
+h1 {
+    text-align: center;
+}
+
+main img{
+    height: 300px;
+    width: 300px;
+}
+
+main p {
+    font-size: 25px;
+}
+
+main h1 {
+     border: 2px solid black;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgb(0, 248, 0);
+}
+
+main p {
+     border: 5px solid black;
+}
+
+main img {
+     border: 5px solid black;
+}
+
+main {
+    background: rgba(52, 29, 29, 0.849);
+}
